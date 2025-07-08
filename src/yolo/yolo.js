@@ -10,7 +10,7 @@ export default class Yolo {
 
   model;
   config;
-
+// jj
   constructor(versionName) {
     this.config = Yolo.getModelConfig(versionName)
   }
